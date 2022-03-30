@@ -1,7 +1,7 @@
 """
-project_name base module.
+project_documentation base module.
 
-This is the principal module of the project_name project.
+This is the principal module of the project_documentation project.
 here you put your main classes and objects.
 
 Be creative! do whatever you want!
